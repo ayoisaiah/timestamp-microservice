@@ -1,0 +1,25 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice project for freeCodeCamp https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayoisaiah/timestamp-microservice.git"
+  },
+  "keywords": [
+    "freeCodeCamp"
+  ],
+  "author": "Ayo Isaiah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayoisaiah/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/ayoisaiah/timestamp-microservice#readme",
+  "engines": {
+    "node": "10.9.0"
+  }
+}
